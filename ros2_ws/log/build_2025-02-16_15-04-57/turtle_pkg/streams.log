@@ -1,0 +1,24 @@
+[0.740s] Invoking command in '/home/paz/ros2_ws/src/turtle_pkg': PYTHONPATH=/home/paz/ros2_ws/build/turtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/paz/ros2_ws/install/turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_pkg build --build-base /home/paz/ros2_ws/build/turtle_pkg/build install --record /home/paz/ros2_ws/build/turtle_pkg/install.log --single-version-externally-managed install_data
+[1.016s] running egg_info
+[1.017s] writing ../../build/turtle_pkg/turtle_pkg.egg-info/PKG-INFO
+[1.017s] writing dependency_links to ../../build/turtle_pkg/turtle_pkg.egg-info/dependency_links.txt
+[1.018s] writing entry points to ../../build/turtle_pkg/turtle_pkg.egg-info/entry_points.txt
+[1.018s] writing requirements to ../../build/turtle_pkg/turtle_pkg.egg-info/requires.txt
+[1.018s] writing top-level names to ../../build/turtle_pkg/turtle_pkg.egg-info/top_level.txt
+[1.020s] reading manifest file '../../build/turtle_pkg/turtle_pkg.egg-info/SOURCES.txt'
+[1.021s] writing manifest file '../../build/turtle_pkg/turtle_pkg.egg-info/SOURCES.txt'
+[1.021s] running build
+[1.021s] running build_py
+[1.022s] copying turtle_pkg/paz_name.py -> /home/paz/ros2_ws/build/turtle_pkg/build/lib/turtle_pkg
+[1.022s] running install
+[1.022s] running install_lib
+[1.023s] copying /home/paz/ros2_ws/build/turtle_pkg/build/lib/turtle_pkg/paz_name.py -> /home/paz/ros2_ws/install/turtle_pkg/lib/python3.10/site-packages/turtle_pkg
+[1.024s] byte-compiling /home/paz/ros2_ws/install/turtle_pkg/lib/python3.10/site-packages/turtle_pkg/paz_name.py to paz_name.cpython-310.pyc
+[1.024s] running install_data
+[1.024s] running install_egg_info
+[1.026s] removing '/home/paz/ros2_ws/install/turtle_pkg/lib/python3.10/site-packages/turtle_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.027s] Copying ../../build/turtle_pkg/turtle_pkg.egg-info to /home/paz/ros2_ws/install/turtle_pkg/lib/python3.10/site-packages/turtle_pkg-0.0.0-py3.10.egg-info
+[1.028s] running install_scripts
+[1.052s] Installing paz_name script to /home/paz/ros2_ws/install/turtle_pkg/lib/turtle_pkg
+[1.052s] writing list of installed files to '/home/paz/ros2_ws/build/turtle_pkg/install.log'
+[1.086s] Invoked command in '/home/paz/ros2_ws/src/turtle_pkg' returned '0': PYTHONPATH=/home/paz/ros2_ws/build/turtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/paz/ros2_ws/install/turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_pkg build --build-base /home/paz/ros2_ws/build/turtle_pkg/build install --record /home/paz/ros2_ws/build/turtle_pkg/install.log --single-version-externally-managed install_data

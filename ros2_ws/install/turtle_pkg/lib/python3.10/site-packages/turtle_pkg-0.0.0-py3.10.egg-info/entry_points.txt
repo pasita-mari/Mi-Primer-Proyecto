@@ -1,0 +1,3 @@
+[console_scripts]
+paz_name = turtle_pkg.paz_name:main
+
